@@ -21,5 +21,5 @@ It attempts to automatically detect and decode a variety of common text encoding
 
 ### 🔧 1. Clone this repo:
 ```bash
-git clone https://github.com/your-username/text-decryption-tool.git
-cd text-decryption-tool
+git clone https://github.com/NeonTechno/text-decryption.git
+cd text-decryption
